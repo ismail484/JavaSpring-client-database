@@ -3,7 +3,7 @@
 # Description
  
 - It's a backend server application using Spring-hibernate Java .
-- Simply it collects the client information with ability to aplly CRUD operation on the database
+- Simply it collects the client information with ability to apply CRUD operation on the database
  
  # Required Libraries and Dependencies
  
@@ -13,7 +13,7 @@
    - Download `Jakarta commons` & `JSTL` files .
    - Download  ` Hibernate JAR ` files
    - Download  `Spring JAR ` files.
-   - Download `spring-mvc-crud-demo-servlet.xml" which define datasource/connection pool `
+   - Download `spring-mvc-crud-demo-servlet.xml` which define datasource/connection pool `
    
  
  # How to Run Project
