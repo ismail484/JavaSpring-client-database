@@ -13,7 +13,12 @@
    - Download `Jakarta commons` & `JSTL` files .
    - Download  ` Hibernate JAR ` files
    - Download  `Spring JAR ` files.
-   - Download `spring-mvc-crud-demo-servlet.xml` which define datasource/connection pool `
+   - Download `spring-mvc-crud-demo-servlet.xml` which define datasource/connection pool 
+   
+  # Structure
+  
+   1.`Customer..java` is responsible for ORM Mapping with database through Hibernate.
+   2. `CustomerController`: MVC controller for requests which respond with required `JSP` file 
    
  
  # How to Run Project
