@@ -26,7 +26,7 @@
     
    
  # Extra Credit Description
-   
+   -add Spring AOP(Aspect Oriented Programming) for logging and Transaction
  
  
  # Miscellaneous
