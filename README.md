@@ -2,6 +2,7 @@
  
 # Description
  
+-First open [WebCustomerApp](http://localhost:8080/WebCustomerApp) to discover .(Note: I deployed it on my own server ..sometimes I close my server)
 - It's a backend server application using Spring-hibernate Java .
 - Simply it collects the client information with ability to apply CRUD operation on the database
  
